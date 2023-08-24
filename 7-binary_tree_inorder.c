@@ -3,7 +3,7 @@
 /**
  * binary_tree_inorder - Print tree in-order.
  * @tree: Pointer to the root node
- * @func: Function to call each node 
+ * @func: Function to call each node
  * Return: Nothing
  */
 
